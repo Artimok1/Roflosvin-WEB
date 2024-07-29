@@ -82,8 +82,18 @@ body{
     display: inline;
 }
 
-.white-square{
-    width: 100px; 
-    height: 100px; 
-    background-color: white; 
+.text_svin1 h3 p{
+    margin-left: 540px;
+    position: relative;
+    top: 500px;
+}
+
+.white-squar{
+    width: 1000px; 
+    height: 555px;
+    background-color: rgb(255, 255, 255); 
+    border-radius: 115px;
+    margin-left: 150px;
+    position: relative;
+    top: 125px;
 }

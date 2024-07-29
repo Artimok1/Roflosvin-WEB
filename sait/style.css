@@ -178,7 +178,7 @@ body{
 }
 
 .squar_3{
-    width: 1200px; 
+    width: 1375px; 
     height: 555px;
     background-color:  #D9D9D9;
     border-radius: 115px;
@@ -186,3 +186,40 @@ body{
     position: relative;
     top: 650px;
 }
+
+footer {
+    background-color: #172a3a;
+    padding: 20px 0;
+    font-size: 14px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 980px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 12px 20px;
+}
+
+.footer-left, .footer-right {
+    display: flex;
+    gap: 20px;
+}
+
+.footer-link {
+    color: #00aaff;
+    text-decoration: none;
+}
+
+.footer-link span {
+    margin-left: 5px;
+}
+
+.footer-center {
+    flex: 1;
+}
+

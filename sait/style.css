@@ -91,7 +91,7 @@ body{
 .text_svin1 h1 p{
     margin-left: 390px;
     font-size: 100px;
-    background: #4A6893;
+    color: #4A6893;
     position: relative;
     top: -475px;
 }
@@ -106,7 +106,7 @@ body{
 .white-squar{
     width: 1000px; 
     height: 555px;
-    background-color: rgb(255, 255, 255); 
+    background-color:  #D9D9D9;
     border-radius: 115px;
     margin-left: 150px;
     position: relative;

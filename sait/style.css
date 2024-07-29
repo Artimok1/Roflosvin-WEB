@@ -83,9 +83,16 @@ body{
 }
 
 .text_svin1 h3 p{
-    margin-left: 540px;
+    margin-left: 370px;
     position: relative;
-    top: 500px;
+    top: 90px;
+}
+
+.text_svin1 h1 p{
+    margin-left: 390px;
+    font-size: 100px;
+    position: relative;
+    top: -475px;
 }
 
 .white-squar{

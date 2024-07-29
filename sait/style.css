@@ -152,7 +152,13 @@ body{
 .svin3{
     margin-left: 15px;
     position: relative;
-    top: -75px;
+    top: -98px;
+}
+
+.text_svin_3 h3 p{
+    margin-left: 600px;
+    position: relative;
+    top: 100px;
 }
 
 .squar_3{

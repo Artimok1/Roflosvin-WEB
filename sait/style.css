@@ -125,7 +125,12 @@ body{
     top: 100px;
 }
 
-
+.text_svin2 h1 p{
+    margin-left: 150px;
+    font-size: 128px;
+    position: relative;
+    top: -435px;
+}
 
 .squar_2{
     width: 1000px; 

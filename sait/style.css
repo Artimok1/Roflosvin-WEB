@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: monospace;
+    font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -91,6 +91,14 @@ body{
 .text_svin1 h1 p{
     margin-left: 390px;
     font-size: 100px;
+    background: #4A6893;
+    position: relative;
+    top: -475px;
+}
+
+.text_svin1 h2 p{
+    margin-left: 455px;
+    font-size: 30px;
     position: relative;
     top: -475px;
 }

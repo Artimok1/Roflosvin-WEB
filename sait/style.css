@@ -161,6 +161,13 @@ body{
     top: 100px;
 }
 
+.text_svin_3 h1 p{
+    margin-left: 625px;
+    font-size: 90px;
+    position: relative;
+    top: -555px;
+}
+
 .squar_3{
     width: 1150px; 
     height: 555px;

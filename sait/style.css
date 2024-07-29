@@ -149,12 +149,18 @@ body{
     top: 400px;
 }
 
+.svin3{
+    margin-left: 15px;
+    position: relative;
+    top: -75px;
+}
+
 .squar_3{
-    width: 1000px; 
+    width: 1150px; 
     height: 555px;
     background-color:  #D9D9D9;
     border-radius: 115px;
-    margin-left: 150px;
+    margin-left: 115px;
     position: relative;
     top: 650px;
 }
